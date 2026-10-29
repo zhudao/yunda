@@ -5,7 +5,7 @@
  * @LastEditors: WangYuan
  * @LastEditTime: 2024-11-01 11:42:05
 -->
-<!-- [English](./README.md) | 简体中文  -->
+<!-- [English](./README.md) | 简体中文  --> 
 
 <p align="center">
   <img style='width:50px' src="./static/logo.png" />
@@ -14,7 +14,7 @@
  <img style='margin:0 5px' src='https://badgen.net/github/stars/wangyuan389/yunda'>
  <img style='margin:0 5px' src='https://badgen.net/github/forks/wangyuan389/yunda'>
  <img style='margin:0 5px' src='https://img.shields.io/badge/version-1.1.1-686480.svg'>
- <img style='margin:0 5px' src='https://img.shields.io/badge/code%20style-standard-7986d0.svg'>
+ <img style='margin:0 5px' src='https://img.shields.io/badge/code%20style-standard-7986d0.svg'> 
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  零代码搭建小程序、H5、问卷、图文
+  零代码搭建小程序、H5、问卷、图文文章
 </p>
 
 ## 介绍
@@ -115,7 +115,52 @@ pnpm dev:dooring
 - 支持自定义表单搭建，提供表单-列表-详情页的整链路设计方案
 - 开放资源广场，为用户提供更多的模板，帮助用户快速搭建
 
-## 开源不易, 有了您的赞助, 我们会做的更好~
+## 捐助
+
+### 友情赞助商
+
+<a href="https://pro.kuaitu.cc" style="text-decoration: none; color: #1e6bb8; word-wrap: break-word; font-weight: bold; border-bottom: 1px solid #1e6bb8;">
+  <img src="./static/kuaitu.png" alt style="width: 20%;">
+</a>
+
+### 友情捐助用户
+
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/nihaojob">
+                    <img src="https://avatars.githubusercontent.com/u/13534626?v=4" width="80;" alt="nihaojob"/>
+                    <br />
+                    <sub><b>nihaojob</b></sub>
+                </a>
+            </td>
+	    <td align="center">
+                <a href="https://github.com/lifeng286">
+                    <img src="https://avatars.githubusercontent.com/u/48050566?v=4" width="80;" alt="nihaojob"/>
+                    <br />
+                    <sub><b>lifeng286</b></sub>
+                </a>
+           </td>
+	    <td align="center">
+                <a href="https://github.com/mikehhuang">
+                    <img src="https://avatars.githubusercontent.com/u/9670467?v=4" width="80;" alt="nihaojob"/>
+                    <br />
+                    <sub><b>mikehhuang</b></sub>
+                </a>
+           </td>
+	   <td align="center">
+                <a href="https://github.com/M-cheng-web">
+                    <img src="https://avatars.githubusercontent.com/u/58416262?v=4" width="80;" alt="nihaojob"/>
+                    <br />
+                    <sub><b>mikehhuang</b></sub>
+                </a>
+           </td>
+    </tr>
+  </tbody>
+</table>
+
+### 开源不易, 有了您的赞助, 我们会做的更好~
 
   <img src="./static/collection.png" alt style="width: 20%;">
 

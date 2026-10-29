@@ -5,6 +5,7 @@
  * @LastEditors: WangYuan
  * @LastEditTime: 2024-07-23 20:16:13
 -->
+
 <template>
   <div>
     <img
@@ -33,7 +34,6 @@ let baseUrl =
   "https://img01.yzcdn.cn/public_files/2019/03/05/2b60ed750a93a1bd6e17fc354c86fa78.png!large.webp";
 
 function handleRoute() {
-  console.log('props.route', props.route);
   emits("route", props.route);
 }
 </script>

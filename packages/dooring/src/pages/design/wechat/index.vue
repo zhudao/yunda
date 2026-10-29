@@ -94,7 +94,7 @@ const menuList = [
   }
 
   .sidebar {
-    width: 160px;
+    min-width: 160px;
     padding: 10px;
 
     .sidebar-item {
